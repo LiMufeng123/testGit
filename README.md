@@ -3,6 +3,6 @@ test...
 
 main
 
-update
+updated
 
 github
